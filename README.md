@@ -5,6 +5,7 @@ This repository contains a collection of Data Engineering projects. Each project
 
 Tools & Technologies
 Languages: Python, SQL
+
 Databases: MySQL
 
 Feel free to contribute or explore the projects! 🎉
